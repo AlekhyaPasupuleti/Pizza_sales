@@ -57,5 +57,6 @@ Launch the notebook:
 jupyter notebook "Pizza Sales Project.ipynb"
 
 Run each cell to view the complete analysis.
+
 📌 Author
-Created by [Alekhya Pasupuleti] for learning and demonstration purposes.
+Created by Alekhya Pasupuleti for learning and demonstration purposes.
